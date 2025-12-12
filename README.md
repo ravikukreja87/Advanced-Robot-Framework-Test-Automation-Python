@@ -1,5 +1,3 @@
-"""
-
 \# 🤖 Advanced Robot Framework Test Automation
 
 
@@ -1025,10 +1023,6 @@ firefox:
 &nbsp; preferences:
 
 &nbsp;   dom.webnotifications.enabled: false
-
-```
-
-
 
 \## 📊 
 
